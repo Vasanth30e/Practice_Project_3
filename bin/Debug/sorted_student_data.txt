@@ -1,0 +1,12 @@
+Rainbow School
+--------------
+Student Details
+-------------------------------------
+Student Name  Student Id  Student Age
+------------  ----------  -----------
+Alice         1           21         
+Bob           2           23         
+Charlie       3           22         
+David         4           20         
+Elizabeth     5           21         
+-------------------------------------
